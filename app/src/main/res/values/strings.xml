@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">MultiQuiz</string>
+    <string name="question_0">Which is the capital of India?</string>
+    <string name="q0answer0">New Delhi</string>
+    <string name="q0answer1">Kolkata</string>
+    <string name="q0answer2">Mumbai</string>
+    <string name="q0answer3">Chennai</string>
+
+    <string name="question_1">Who has the most centuries in ODI cricket?</string>
+    <string name="q1answer0">Kane Williamson</string>
+    <string name="q1answer1">Virat Kohli</string>
+    <string name="q1answer2">Joe Root</string>
+    <string name="q1answer3">Steve Smith</string>
+
+    <string name="question_2">Which of the following is an amphibian?</string>
+    <string name="q2answer0">Lizard</string>
+    <string name="q2answer1">Dolphin</string>
+    <string name="q2answer2">Frog</string>
+    <string name="q2answer3">Turtle</string>
+
+    <string name="question_3">Which F1 driver has the most World Drivers Championships?</string>
+    <string name="q3answer0">Max Verstappen</string>
+    <string name="q3answer1">Sebastian Vettel</string>
+    <string name="q3answer2">Fernando Alonso</string>
+    <string name="q3answer3">Lewis Hamilton</string>
+
+    <string name="hint">Hint</string>
+    <string name="submit">Submit</string>
+    <string name="summary_heading">Quiz Summary</string>
+    <string name="correct_answers_label">Correct Answers:</string>
+    <string name="hints_used_label">Hints Used:</string>
+    <string name="reset_all_button">Reset All</string>
 </resources>
